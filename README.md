@@ -1,16 +1,16 @@
 # AI-SHRI-Project
 
-Artificial Intelligence [12 Credit] 
-Master in Artificial Intelligence and Robotics
-- Prof. Nardi -
+# Artificial Intelligence [12 Credit] 
+## Master in Artificial Intelligence and Robotics
+## - Prof. Nardi -
 
-SHRI Project
-Student: Francesco Cassini
-Sapienza ID number: 785771
-GITHUB directory:  https://github.com/francesco-AI/AI-SHRI-Project
+## SHRI Project
+## Student: Francesco Cassini
+## Sapienza ID number: 785771
+## GITHUB directory:  https://github.com/francesco-AI/AI-SHRI-Project
 
 
-Abstract
+## Abstract
 
 For my Spoken Human-Robot Interaction project I chose to implement a robot gardener capable of performing a series of actions in the field of plant care and maintenance.
 The chosen context allowed me to implement a series of dialogues through which to experiment with the use of speech-recognition and text-to-speech routines: through the "Google Speech Recognition" and "SAY" libraries it was possible to send and receive voice commands in my source language (that is to say: the Italian).
