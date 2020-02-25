@@ -1,13 +1,13 @@
 # AI-SHRI-Project
 
 # Artificial Intelligence [12 Credit] 
-## Master in Artificial Intelligence and Robotics
-## - Prof. Nardi -
+### Master in Artificial Intelligence and Robotics
+### - Prof. Nardi -
 
-## SHRI Project
-## Student: Francesco Cassini
-## Sapienza ID number: 785771
-## GITHUB directory:  https://github.com/francesco-AI/AI-SHRI-Project
+#### SHRI Project
+#### Student: Francesco Cassini
+#### Sapienza ID number: 785771
+#### GITHUB directory:  https://github.com/francesco-AI/AI-SHRI-Project
 
 
 ## Abstract
