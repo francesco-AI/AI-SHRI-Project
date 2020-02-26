@@ -18,4 +18,8 @@ But in particular I stopped to study the StanfordNLP library for the treatment o
 As for the semantic part, I studied the theoretical concepts that underlie the FRAME theory. I only used the FRAMENET library at the beginning of my project, when I still hadn't decided to implement everything in Italian.
 Unfortunately Italian is not one of the languages supported by the current library and therefore, even having used it, it was not possible to insert it in a "thorough" way in this project, even if I took it into account at least as an approach in the recognition phase of the actions to accomplish.
 
+
+
+## Video Example
+
 [![SHRI Project](http://4.bp.blogspot.com/-f1s6JyTD-_U/XlZ8jbCuJXI/AAAAAAAACZ8/3ZUEiQpTgowyV9PCGF3r-mWc0Ixzp_SuACK4BGAYYCw/s320/youtube.png)](http://www.youtube.com/watch?v=uMJM04BZlOY)
